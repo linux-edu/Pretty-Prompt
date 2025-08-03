@@ -26,12 +26,17 @@ A simple Bash-based CLI installer that applies Linux–inspired prompt styles to
 
 1. Clone the repo or download the script:
    git clone https://github.com/linux-edu/Pretty-Prompt.git
+   
    cd Pretty-Prompt
 
-2. Run the script:
+3. Run the script:
    chmod +x install.sh
    ./install.sh
    
 4. To uninstall
    chmod +x uninstall.sh
-   ./uninstall.sh
+   ./uninstall.sh## 📱 Join Our WhatsApp Group
+
+[Click here to join the WhatsApp group](https://chat.whatsapp.com/FxchIC2cgiOJtf18qeJSKa)
+
+
