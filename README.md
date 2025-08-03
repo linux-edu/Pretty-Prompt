@@ -31,13 +31,19 @@ This script lets you apply Linux–inspired prompt styles to your terminal. Clea
    
    cd Pretty-Prompt
 
-3. Run the script:
+2. Run the script:
+   
    chmod +x install.sh
+
    ./install.sh
    
-4. To uninstall
+3. To uninstall:
+   
    chmod +x uninstall.sh
-   ./uninstall.sh## 📱 Join Our WhatsApp Group
+
+   ./uninstall.sh
+
+   ## 📱 Join Our WhatsApp Group
 
 [![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?logo=whatsapp)](https://chat.whatsapp.com/FxchIC2cgiOJtf18qeJSKa)
 
