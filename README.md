@@ -43,10 +43,6 @@ This script lets you apply Linux–inspired prompt styles to your terminal. Clea
 
    ./uninstall.sh
 
-   ## 📱 Join Our WhatsApp Group
-
-[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?logo=whatsapp)](https://chat.whatsapp.com/FxchIC2cgiOJtf18qeJSKa)
-
 💖 Sponsor Us
 
 If you find our work useful, consider supporting it.
@@ -59,6 +55,12 @@ Your sponsorship helps us:
 Even small contributions go a long way — thank you for helping us keep open-source accessible to everyone. 🙏
 
 [![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-yellow?logo=github)](https://github.com/sponsors/linux-edu)
+
+   ## 📱 Join Our WhatsApp Group
+
+[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?logo=whatsapp)](https://chat.whatsapp.com/FxchIC2cgiOJtf18qeJSKa)
+
+
 
 
 
