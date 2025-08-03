@@ -37,6 +37,6 @@ A simple Bash-based CLI installer that applies Linux–inspired prompt styles to
    chmod +x uninstall.sh
    ./uninstall.sh## 📱 Join Our WhatsApp Group
 
-[Click here to join the WhatsApp group](https://chat.whatsapp.com/FxchIC2cgiOJtf18qeJSKa)
+[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join%20Group-brightgreen?logo=whatsapp)](https://chat.whatsapp.com/FxchIC2cgiOJtf18qeJSKa)
 
 
