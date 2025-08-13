@@ -1,6 +1,5 @@
-![Shell Script](https://img.shields.io/badge/linux-edu-red.svg)
-
 # Pretty-Prompt
+
 This script lets you apply Linux–inspired prompt styles to your terminal. Clean, fast & safely.
 
 ## 🎯 Features
@@ -27,21 +26,27 @@ This script lets you apply Linux–inspired prompt styles to your terminal. Clea
 ## 🛠️ Installation
 
 1. Clone the repo or download the script:
+   ```bash
    git clone https://github.com/linux-edu/Pretty-Prompt.git
    
    cd Pretty-Prompt
+   ```
 
-2. Run the script:
-   
+3. Run the script:
+
+   ```bash
    chmod +x install.sh
 
    ./install.sh
+   ```
    
-3. To uninstall:
+4. To uninstall:
    
+```bash
    chmod +x uninstall.sh
 
    ./uninstall.sh
+```
 
 💖 Sponsor Us
 
