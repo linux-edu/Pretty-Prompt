@@ -42,11 +42,11 @@ This script lets you apply Linux–inspired prompt styles to your terminal. Clea
    
 4. To uninstall:
    
-```bash
+   ```bash
    chmod +x uninstall.sh
 
    ./uninstall.sh
-```
+   ```
 
 💖 Sponsor Us
 
