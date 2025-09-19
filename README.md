@@ -17,11 +17,17 @@ This script lets you apply Linux–inspired prompt styles to your terminal. Clea
 - `.gitignore` – Ignore temporary files
 - `LICENSE` – MIT License
 
-## 🎨 Prompt Styles
+## 🌸 Select your terminal prompt style:
 
-1. **Minimal** – Red prompt: `user@host:/path$`
-2. **Classic** – Red + Blue (Bold): `user@host:/path$`
-3. **Pro** – Multiline with Cyan/Yellow path
+1) Rose      → Bold red username@host with path
+2) Lily      → Bold red/blue username@host + path
+3) Orchid    → Multiline cyan/yellow with path
+4) Tulip     → Green username with timestamp
+5) Daisy     → Purple username with git branch
+6) Sunflower → Blue path with emoji prefix
+7) Violet    → Minimal gray with bold time
+8) Marigold  → Multiline with host and date
+
 
 ## 🛠️ Installation
 
